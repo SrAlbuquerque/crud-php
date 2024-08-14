@@ -1,15 +1,5 @@
 # OBSERVAÇÕES:
 
-- **Nome das colunas da tabela produto:** idproduto(int), nome(varchar), categoria(varchar), preco(double).
-
-- **Endpoint AWS:** database-1.cegsjvmeg9bl.us-east-2.rds.amazonaws.com
-
-- **User AWS:** admin
-
-- **Password AWS:** twjrjyAxc
-
-- **DB AWS:** test
-
 ## Mudar de DB
 
 1. Vá para o arquivo **dbconfig.php** que está dentro da pasta **config**.
